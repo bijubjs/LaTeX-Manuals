@@ -1,2 +1,4 @@
 # LaTeXPackages
-This repository contains pdf manuals of latex packages to use.
+This repository contains pdf manuals of latex packages. LaTex requires lots of coding and hard to remember them all the times. While most, if not all, packages are available openly in the cran network, it takes time to search, locate, and relocate them again and again. This is inefficient and formatting takes more time than anything else. So, I am compiling manuals that I frequently use as a one-stop repository to access all important latex packages. This repository will be updated with the updates on package. However, I may not be able to catch up with all the development. So, please feel free to send pull request to make changes.
+
+In long run, I plan to upload templates that I developed so you don't have to built again. I must say, overleaf templates are not enought to meet my needs and preferences.
